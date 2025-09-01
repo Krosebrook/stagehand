@@ -75,7 +75,7 @@
     "@browserbasehq/sdk": "^2.4.0",
     "@google/genai": "^0.8.0",
     "ai": "^4.3.9",
-    "devtools-protocol": "^0.0.1464554",
+    "devtools-protocol": "^0.0.1498597",
     "fetch-cookie": "^3.1.0",
     "openai": "^4.87.1",
     "pino": "^9.6.0",
